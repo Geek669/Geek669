@@ -1,6 +1,9 @@
+   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> !
+                    
+ ![programming](https://user-images.githubusercontent.com/82047029/158274221-eb977b04-7040-45a9-9531-cbb1274d6a90.gif)
+
 - 👋 Hi, I’m @Geek669 
-- 👀 I’m interested in ... Programación , Ethical Haking , Pentesting , Seguridad Informática
-- 🌱 I’m currently learning  Programacion con Python , Desarrollo de APPS, Programacion Web , 
+- 🌱 I’m currently learning  Programacion web, Desarrollo de APPS, Programacion Web , 
 - 💞️ Puedes seguirme en Youtube 
 - https://www.youtube.com/channel/UCW6tFGh_TuYYofmdkVM528Q
 - 💞️ Puedes Seguirme en Instagram 
