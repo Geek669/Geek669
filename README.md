@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Geek669
+- 👋 Hi, I’m @Geek669 
 - 👀 I’m interested in ... Programación , Ethical Haking , Pentesting , Seguridad Informática
-- 🌱 I’m currently learning  Programacion con Python , Desarrollo de APPS, 
+- 🌱 I’m currently learning  Programacion con Python , Desarrollo de APPS, Programacion Web , 
 - 💞️ Puedes seguirme en Youtube 
 - https://www.youtube.com/channel/UCW6tFGh_TuYYofmdkVM528Q
 - 💞️ Puedes Seguirme en Instagram 
